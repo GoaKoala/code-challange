@@ -1,0 +1,17 @@
+To start server issue the command;
+
+node service.js
+
+in the root folder.
+
+
+Dependencies - package.json  
+
+  "dependencies": {
+    "express": "4.x",
+    "body-parser": "*",
+    "morgan": "*"
+  },
+
+
+  CodeChallange.html file can be used for testing purposes.

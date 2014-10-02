@@ -1,0 +1,16 @@
+{
+  "name": "CodeChallenge",
+  "version": "1.0.0",
+  "description": "Code Challange",
+  "main": "Service.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "4.x",
+    "body-parser": "*",
+    "morgan": "*"
+  },  
+  "author": "Can Ertel",
+  "license": "ISC"
+}
